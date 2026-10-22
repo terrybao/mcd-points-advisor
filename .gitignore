@@ -1,0 +1,8 @@
+# 切勿提交真实 Token / 密钥
+.env
+*.env
+mcp-config.json
+mcp-config.local.json
+__pycache__/
+*.pyc
+.DS_Store
